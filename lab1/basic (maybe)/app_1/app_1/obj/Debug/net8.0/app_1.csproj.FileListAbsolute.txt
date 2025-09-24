@@ -1,0 +1,14 @@
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\bin\Debug\net8.0\app_1.exe
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\bin\Debug\net8.0\app_1.deps.json
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\bin\Debug\net8.0\app_1.runtimeconfig.json
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\bin\Debug\net8.0\app_1.dll
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\bin\Debug\net8.0\app_1.pdb
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.AssemblyInfoInputs.cache
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.AssemblyInfo.cs
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.csproj.CoreCompileInputs.cache
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.dll
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\refint\app_1.dll
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.pdb
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\app_1.genruntimeconfig.cache
+E:\design_patterns\lab1\basic (maybe)\app_1\app_1\obj\Debug\net8.0\ref\app_1.dll

@@ -1,0 +1,15 @@
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\bin\Debug\net8.0\app_3.exe
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\bin\Debug\net8.0\app_3.deps.json
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\bin\Debug\net8.0\app_3.runtimeconfig.json
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\bin\Debug\net8.0\app_3.dll
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\bin\Debug\net8.0\app_3.pdb
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.AssemblyInfoInputs.cache
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.AssemblyInfo.cs
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.csproj.CoreCompileInputs.cache
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.sourcelink.json
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.dll
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\refint\app_3.dll
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.pdb
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\app_3.genruntimeconfig.cache
+E:\design.patterns\lab1\basic (maybe)\app_3\app_3\obj\Debug\net8.0\ref\app_3.dll
